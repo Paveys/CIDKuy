@@ -25,11 +25,11 @@ end
 
 -- edit this
 ACC = {
-	name = "Afanganteng",
+	name = "joangtoken",
 	startnum = 3,
 	endnum = 7,
-	pass = "Afanjancok123.",
-	email = RandomEmail()
+	pass = "Ternaktoken@123",
+	email = pesandicallisto()
 }
 
 
